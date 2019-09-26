@@ -1,2 +1,0 @@
-# zhangtaibai.github.io
-blog
